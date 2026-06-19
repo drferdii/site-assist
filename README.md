@@ -29,6 +29,7 @@ SideLab's public-facing web presence. Static site built with Next.js 16 App Rout
 Covers the product landing page, capabilities, ACARS intelligence dashboard, manifesto, and legal pages for Sentra Assist — the clinical decision support layer for Indonesian primary care (FKTP / Puskesmas).
 
 <p>
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" />
   <img src="https://img.shields.io/badge/status-prototype-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/framework-Next.js_16-black?style=flat-square&logo=next.js" />
   <img src="https://img.shields.io/badge/react-19-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -242,14 +243,12 @@ Run typecheck and lint before claiming completion.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<br />
 
-<br />
+---
 
 <p align="center">
-  <b>Sentra Artificial Intelligence — Clinical Intelligence Division</b><br />
-  <sub>Clinical decision support for Indonesian primary care.</sub><br /><br />
-  <b>Sentra Assist augments clinical judgment. It does not replace it.</b><br />
-  <sub>Clinical responsibility always remains with the licensed physician.</sub><br /><br />
+  ❤️ for Alde, Aimee, Audrey &amp; Del<br /><br />
+  From Indonesia, for a more equitable world of healthcare.<br />
+  <sub>Offline. Trusted. Sovereign.</sub><br /><br />
   <a href="https://ferdiiskandar.com">ferdiiskandar.com</a>
 </p>
