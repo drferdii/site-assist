@@ -135,7 +135,7 @@ export default function HomePage() {
                   <span className="dot" />Sentra&nbsp;&middot;&nbsp;terminal<span className="cursor" />
                 </span>
                 <iframe
-                  src="/terminal/index.html"
+                  src="/terminal/"
                   title="Sentra Assist — live terminal preview"
                   loading="eager"
                   referrerPolicy="no-referrer"
