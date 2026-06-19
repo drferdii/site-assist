@@ -14,8 +14,11 @@ export const metadata: Metadata = {
   referrer: 'strict-origin-when-cross-origin',
   robots: {index: true, follow: true},
   icons: {
-    icon: [{url: '/favicon.svg', type: 'image/svg+xml'}],
-    apple: [{url: '/favicon.svg'}],
+    icon: [
+      {url: '/sentra.png', type: 'image/png', sizes: '1024x1024'},
+    ],
+    apple: [{url: '/sentra.png', sizes: '1024x1024'}],
+    shortcut: '/sentra.png',
   },
   manifest: '/manifest.json',
   openGraph: {
