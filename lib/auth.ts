@@ -28,7 +28,7 @@ export const auth = betterAuth({
     magicLink({
       sendMagicLink: async ({ email, url }) => {
         await resend.emails.send({
-          from: 'Sentra Assist <noreply@sentraassist.id>',
+          from: 'Sentra Assist <noreply@sentraai.id>',
           to: email,
           subject: 'Tautan masuk ke Sentra Assist',
           html: `
